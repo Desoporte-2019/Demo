@@ -1,50 +1,70 @@
-# 🍽 MENU PRO - Demo
+# 🍽️ MENU PRO - Sistema de Menús Digitales para Restaurantes
 
-Sistema profesional de menús digitales para restaurantes.
-
-## 🔗 DEMO ONLINE
-
-**[https://tu-usuario.github.io/menu-pro/](https://tu-usuario.github.io/menu-pro/)**
-
-## 🎯 QUÉ PUEDES PROBAR
-
-✅ Ver restaurantes de ejemplo
-✅ Navegar por menús por tiempos
-✅ Probar la interfaz de usuario
-✅ Ver cómo se ve en celular
-✅ Explorar el panel admin demo
-
-## ⚠️ LIMITACIONES DEMO
-
-❌ No puedes guardar cambios
-❌ No crear restaurantes
-❌ No agregar platos
-❌ Datos fijos de ejemplo
-
-## 🚀 VERSIÓN OFICIAL INCLUYE
-
-✅ Restaurantes ilimitados
-✅ Banco de platos propio
-✅ Menús personalizados
-✅ QR por restaurante
-✅ Impresión profesional
-✅ Respaldo de datos
-✅ Soporte 30 días
-
-## 💰 PRECIO: $19.990 CLP
-
-Incluye:
-- Archivos completos
-- Manual PDF
-- Instalación guiada
-- 5 plantillas extra
-- Soporte por correo
-
-## 📱 CONTACTO
-
-- Email: tu@email.com
-- WhatsApp: +56 9 XXXX XXXX
+**Demo online:** [https://tuusuario.github.io/menu-pro/](https://tuusuario.github.io/menu-pro/)
 
 ---
 
-Desarrollado por Alfredo Sanhueza - © 2026
+## 🎯 ¿QUÉ ES?
+
+Sistema profesional para que restaurantes creen menús digitales con QR. Los clientes escanean y ven la carta actualizada al instante.
+
+### ✨ CARACTERÍSTICAS
+
+✅ **Menús por tiempos** - Entrada, Principal, Postre, Bebida, Café  
+✅ **QR dinámico** - Cada restaurante tiene su propio código  
+✅ **Múltiples restaurantes** - Administra todos tus locales  
+✅ **Banco de platos** - Crea una vez, usa en todos los menús  
+✅ **Impresión profesional** - Imprime menús con QR incluido  
+✅ **Pago único** - Sin mensualidades  
+
+---
+
+## 🚀 DEMO EN VIVO
+
+| Sección | Enlace |
+|---------|--------|
+| 🏠 Página de inicio | [index.html](https://tuusuario.github.io/menu-pro/) |
+| 🖥️ Panel Admin | [admin-demo.html](https://tuusuario.github.io/menu-pro/admin-demo.html) |
+| 📱 Vista Cliente | [menu-demo.html](https://tuusuario.github.io/menu-pro/menu-demo.html) |
+| 🍽️ Restaurante 1 | [menu-demo.html?id=1](https://tuusuario.github.io/menu-pro/menu-demo.html?id=1) |
+
+---
+
+## 💻 TECNOLOGÍAS
+
+- HTML5 / CSS3 / JavaScript
+- Bootstrap 5.3
+- LocalStorage
+- QRCode.js
+
+---
+
+## 💰 VERSIÓN OFICIAL
+
+**Precio: $19.990 CLP (pago único)**
+
+### Incluye:
+✅ Restaurantes ilimitados  
+✅ Banco de platos propio  
+✅ Menús personalizados  
+✅ QR ilimitados  
+✅ Manual PDF  
+✅ 30 días de soporte  
+
+---
+
+## 📥 CONTACTO
+
+- **Email:** ingesistem.alfredo.sanhueza@gmail.com
+- **WhatsApp:** +56 9 
+
+---
+
+## ⚖️ LICENCIA
+
+© 2026 MENU PRO - Desarrollado por Alfredo Sanhueza  
+Prohibida la redistribución no autorizada
+
+---
+
+⭐ **Si te gusta el proyecto, no olvides dejar una estrella** ⭐
